@@ -1,0 +1,1 @@
+nome = 'Harry Potter and the Deathly Hallows: Part 2' ano de lançamento = 2011 duração em minutos =  130 min
